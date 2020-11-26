@@ -1,5 +1,6 @@
 #include "kroman_process.h"
 #include "kroman_convert.h"
+#include "kroman_softtone.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
